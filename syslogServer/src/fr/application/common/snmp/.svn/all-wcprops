@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/subv/!svn/ver/60/syslogServer/src/fr/application/common/snmp
+END
+SnmpWalk.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/subv/!svn/ver/82/syslogServer/src/fr/application/common/snmp/SnmpWalk.java
+END
+SnmpGetExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subv/!svn/ver/68/syslogServer/src/fr/application/common/snmp/SnmpGetExample.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/subv/!svn/ver/33/syslogServer/lib
+END
+syslog4j-0.9.46.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/subv/!svn/ver/15/syslogServer/lib/syslog4j-0.9.46.jar
+END
+snmp4j-agent-2.0.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/subv/!svn/ver/15/syslogServer/lib/snmp4j-agent-2.0.6.jar
+END
+snmp4j-2.1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/subv/!svn/ver/15/syslogServer/lib/snmp4j-2.1.0.jar
+END
+log4j-1.2.16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/subv/!svn/ver/15/syslogServer/lib/log4j-1.2.16.jar
+END

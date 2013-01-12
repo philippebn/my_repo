@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/subv/!svn/ver/60/syslogServer/src/fr/application/common/ping
+END
+Pinger.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/subv/!svn/ver/71/syslogServer/src/fr/application/common/ping/Pinger.java
+END
+PingCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/subv/!svn/ver/82/syslogServer/src/fr/application/common/ping/PingCmd.java
+END
+MyIp.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/subv/!svn/ver/82/syslogServer/src/fr/application/common/ping/MyIp.java
+END

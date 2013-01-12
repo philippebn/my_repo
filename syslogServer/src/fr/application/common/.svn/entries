@@ -1,0 +1,40 @@
+10
+
+dir
+64
+http://hapiben.no-ip.org/subv/syslogServer/src/fr/application/common
+http://hapiben.no-ip.org/subv
+
+
+
+2012-05-30T15:43:50.545078Z
+60
+philippe
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+53258efc-f3a0-4387-a3c7-ad6dbdf98adf
+
+log
+dir
+
+ping
+dir
+
+snmp
+dir
+
+syslog
+dir
+

@@ -1,0 +1,12 @@
+fr.application.appender
+fr.application.common.log
+fr.application.common.ping
+fr.application.common.snmp
+fr.application.common.syslog
+fr.application.hmi
+fr.application.hmi.config
+fr.application.hmi.events
+fr.application.hmi.mibGui
+fr.application.hmi.panels
+fr.application.hmi.panels.appender
+fr.application.hmi.syslogGui

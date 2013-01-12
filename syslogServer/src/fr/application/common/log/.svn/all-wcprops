@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/subv/!svn/ver/21/syslogServer/src/fr/application/common/log
+END
+LogClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/subv/!svn/ver/71/syslogServer/src/fr/application/common/log/LogClass.java
+END
+TextAreaAppender.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subv/!svn/ver/21/syslogServer/src/fr/application/common/log/TextAreaAppender.java
+END

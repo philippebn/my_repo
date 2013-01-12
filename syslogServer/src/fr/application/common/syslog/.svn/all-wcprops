@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/subv/!svn/ver/15/syslogServer/src/fr/application/common/syslog
+END
+SyslogServeur.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subv/!svn/ver/15/syslogServer/src/fr/application/common/syslog/SyslogServeur.java
+END
+SyslogClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subv/!svn/ver/15/syslogServer/src/fr/application/common/syslog/SyslogClient.java
+END
